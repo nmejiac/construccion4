@@ -1,0 +1,14 @@
+D:\Proyectos_C#\tiposoperadores\bin\Debug\net8.0\tiposoperadores.exe
+D:\Proyectos_C#\tiposoperadores\bin\Debug\net8.0\tiposoperadores.deps.json
+D:\Proyectos_C#\tiposoperadores\bin\Debug\net8.0\tiposoperadores.runtimeconfig.json
+D:\Proyectos_C#\tiposoperadores\bin\Debug\net8.0\tiposoperadores.dll
+D:\Proyectos_C#\tiposoperadores\bin\Debug\net8.0\tiposoperadores.pdb
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.AssemblyInfoInputs.cache
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.AssemblyInfo.cs
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.csproj.CoreCompileInputs.cache
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.dll
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\refint\tiposoperadores.dll
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.pdb
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\tiposoperadores.genruntimeconfig.cache
+D:\Proyectos_C#\tiposoperadores\obj\Debug\net8.0\ref\tiposoperadores.dll

@@ -1,0 +1,4 @@
+1) dotnet new console -o tiposoperadores
+2) cd tiposOperadores
+3) code . --> para que abra la visual estudio en la carpeta del proyecto 
+4) dotnet run --> para correr el programa en consola

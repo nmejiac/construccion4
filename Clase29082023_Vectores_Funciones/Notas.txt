@@ -1,0 +1,6 @@
+Vector = Estructura de datos
+
+Caracteristicas
+    Tamaño fijo
+    Tipo de dato unico
+    Se maneja por el indice

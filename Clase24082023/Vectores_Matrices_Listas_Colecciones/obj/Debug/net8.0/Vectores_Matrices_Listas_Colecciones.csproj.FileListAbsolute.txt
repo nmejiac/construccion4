@@ -1,0 +1,14 @@
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\bin\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.exe
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\bin\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.deps.json
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\bin\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.runtimeconfig.json
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\bin\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.dll
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\bin\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.pdb
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.AssemblyInfoInputs.cache
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.AssemblyInfo.cs
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.csproj.CoreCompileInputs.cache
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.dll
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\refint\Vectores_Matrices_Listas_Colecciones.dll
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.pdb
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\Vectores_Matrices_Listas_Colecciones.genruntimeconfig.cache
+D:\Proyectos_C#\Clase24082023\Vectores_Matrices_Listas_Colecciones\obj\Debug\net8.0\ref\Vectores_Matrices_Listas_Colecciones.dll

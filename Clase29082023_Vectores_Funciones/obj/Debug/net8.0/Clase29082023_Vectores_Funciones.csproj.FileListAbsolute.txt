@@ -1,0 +1,14 @@
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\bin\Debug\net8.0\Clase29082023_Vectores_Funciones.exe
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\bin\Debug\net8.0\Clase29082023_Vectores_Funciones.deps.json
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\bin\Debug\net8.0\Clase29082023_Vectores_Funciones.runtimeconfig.json
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\bin\Debug\net8.0\Clase29082023_Vectores_Funciones.dll
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\bin\Debug\net8.0\Clase29082023_Vectores_Funciones.pdb
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.AssemblyInfoInputs.cache
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.AssemblyInfo.cs
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.csproj.CoreCompileInputs.cache
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.dll
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\refint\Clase29082023_Vectores_Funciones.dll
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.pdb
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\Clase29082023_Vectores_Funciones.genruntimeconfig.cache
+D:\Proyectos_C#\Clase29082023_Vectores_Funciones\obj\Debug\net8.0\ref\Clase29082023_Vectores_Funciones.dll

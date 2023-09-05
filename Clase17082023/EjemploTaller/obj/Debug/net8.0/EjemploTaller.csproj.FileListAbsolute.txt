@@ -1,0 +1,14 @@
+D:\Proyectos_C#\Clase17082023\EjemploTaller\bin\Debug\net8.0\EjemploTaller.exe
+D:\Proyectos_C#\Clase17082023\EjemploTaller\bin\Debug\net8.0\EjemploTaller.deps.json
+D:\Proyectos_C#\Clase17082023\EjemploTaller\bin\Debug\net8.0\EjemploTaller.runtimeconfig.json
+D:\Proyectos_C#\Clase17082023\EjemploTaller\bin\Debug\net8.0\EjemploTaller.dll
+D:\Proyectos_C#\Clase17082023\EjemploTaller\bin\Debug\net8.0\EjemploTaller.pdb
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.AssemblyInfoInputs.cache
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.AssemblyInfo.cs
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.csproj.CoreCompileInputs.cache
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.dll
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\refint\EjemploTaller.dll
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.pdb
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\EjemploTaller.genruntimeconfig.cache
+D:\Proyectos_C#\Clase17082023\EjemploTaller\obj\Debug\net8.0\ref\EjemploTaller.dll

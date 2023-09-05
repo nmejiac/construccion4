@@ -1,0 +1,14 @@
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\bin\Debug\net8.0\Operadores_Condicionales_Ciclos.exe
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\bin\Debug\net8.0\Operadores_Condicionales_Ciclos.deps.json
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\bin\Debug\net8.0\Operadores_Condicionales_Ciclos.runtimeconfig.json
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\bin\Debug\net8.0\Operadores_Condicionales_Ciclos.dll
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\bin\Debug\net8.0\Operadores_Condicionales_Ciclos.pdb
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.AssemblyInfoInputs.cache
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.AssemblyInfo.cs
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.csproj.CoreCompileInputs.cache
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.dll
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\refint\Operadores_Condicionales_Ciclos.dll
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.pdb
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\Operadores_Condicionales_Ciclos.genruntimeconfig.cache
+D:\Proyectos_C#\Clase15082023\Operadores_Condicionales_Ciclos\obj\Debug\net8.0\ref\Operadores_Condicionales_Ciclos.dll

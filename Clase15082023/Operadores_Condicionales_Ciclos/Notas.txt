@@ -1,0 +1,16 @@
+que son los operadores 
+
+son simbolos que se utilizan para realizar operaciones en variables u valores 
+
+* Comparacion 
+* Aricmeticos 
+* asignacion 
+* Logicos 
+
+
+if 
+
+switch
+
+ciclos 
+
