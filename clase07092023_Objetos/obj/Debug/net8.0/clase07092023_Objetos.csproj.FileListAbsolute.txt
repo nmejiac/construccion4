@@ -1,0 +1,15 @@
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\bin\Debug\net8.0\clase07092023_Objetos.exe
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\bin\Debug\net8.0\clase07092023_Objetos.deps.json
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\bin\Debug\net8.0\clase07092023_Objetos.runtimeconfig.json
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\bin\Debug\net8.0\clase07092023_Objetos.dll
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\bin\Debug\net8.0\clase07092023_Objetos.pdb
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.AssemblyInfoInputs.cache
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.AssemblyInfo.cs
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.sourcelink.json
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.dll
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\refint\clase07092023_Objetos.dll
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.pdb
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\clase07092023_Objetos.genruntimeconfig.cache
+C:\Users\nmejia\Proyectos_C#\construccion4\clase07092023_Objetos\obj\Debug\net8.0\ref\clase07092023_Objetos.dll
